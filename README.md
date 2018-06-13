@@ -1,7 +1,7 @@
-# instrument-prediction
+# Instrument Recognition
 The instrument recognition model in this repo is trained on MusicNet dataset, which contains 7 kinds of instrument - Piano, Violin, Viola, Cello, Clarinet, Horn and Bassoon.
 
-### File structure
+## File structure
 #### For training and evaluation
 - **./data/**: store the pre-train models' parameters. Model's parameters will also store in this directory during training process. 
 - **./function/**: store all the python files related to training and testing
@@ -22,7 +22,7 @@ The instrument recognition model in this repo is trained on MusicNet dataset, wh
 - **predict_pitch.py**: pitch extraction 
 - **prediction.py**: start prediction process
 
-### Requirement
+## Requirement
 - librosa==0.6.0
 - matplotlib==2.2.0
 - numpy==1.14.2
