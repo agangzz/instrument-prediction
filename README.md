@@ -51,8 +51,8 @@ python prediction.py test.mp3
 4. Run the python script 'run.py' to start the training
 5. Run the python script 'test_frame.py' to start evaluation
 
-<!-- ## Paper
-- Yun-Ning Hung and Yi-Hsuan Yang, "FRAME-LEVEL INSTRUMENT RECOGNITION BY TIMBRE AND PITCH" to appear at International Society for Music Information Retrieval Conference (ISMIR), 2018-->
+## Paper
+- Yun-Ning Hung and Yi-Hsuan Yang, "FRAME-LEVEL INSTRUMENT RECOGNITION BY TIMBRE AND PITCH" to appear at International Society for Music Information Retrieval Conference (ISMIR), 2018
 
 ## Reference
 Please cite these two papers when you use the MusicNet dataset and the Pitch estimator.
